@@ -1,0 +1,16 @@
+{
+    "name": "mysql-to-rethink",
+    "description": "A tool for transfering data from MySQL to RethinkDB",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/vlfz/mtr.git",
+    "author": {
+        "name": "vlfz",
+        "url": "https://github.com/vlfz"
+    },
+    "private": false,
+    "dependencies": {
+        "mysql": "^2.18.1",
+        "rebirthdb-js": "github:rethinkdb/rethinkdb-js"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "rethinkdb": {
+        "host": "***",
+        "port": 28015,
+        "user": "***",
+        "password": "***",
+        "db": "***"
+    },
+    "mysql": {
+        "host": "***",
+        "port": 3306,
+        "user": "***",
+        "password": "***",
+        "database": "***",
+        "insecureAuth": true,
+        "charset": "utf8mb4"
+    }
+}
